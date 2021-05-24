@@ -4,7 +4,7 @@ from datetime import datetime
 from moving_screen import MovingScreen
 
 
-screen = MovingScreen("GONZITO")
+screen = MovingScreen("YOUR NAME")
 screen.make_screen()
 i = 0
 while True:
